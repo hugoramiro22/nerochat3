@@ -219,7 +219,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Atendeocta | Seu WhatsApp Web em vários computadores!
+            NeroChat | Realize multiatendimento com chatbot!
           </Typography>
           {user.id && <NotificationsPopOver />}
 
